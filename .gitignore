@@ -1,0 +1,24 @@
+# IntelliJ IDEA project files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# User-specific stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# Generated files
+out/
+build/
+target/
+
+# IntelliJ crash logs
+hs_err_pid*
+
+# OS-specific
+.DS_Store
+Thumbs.db
