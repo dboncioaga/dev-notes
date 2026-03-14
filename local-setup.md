@@ -204,7 +204,6 @@ ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 brew install --cask google-chrome
 brew install git
 brew install --cask visual-studio-code
-brew install --cask docker
 brew install docker colima 
 brew install tree
 brew install bat
